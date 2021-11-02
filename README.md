@@ -15,7 +15,10 @@ The app was built using the following technologies:
 
 # Website Purpose
 This website allows users to plan out parties and get togethers and have a place where the user can assign tasks and create polls to make it easy for the user to see who is in charge of what tasks.  
+
 # Links
 Deployed: https://group-event-planner.herokuapp.com/login
 Github repo: https://github.com/YummySocks/event-planner
 PowerPoint Presentation: https://docs.google.com/presentation/d/1RNLJav2DtONiLbTfTVdz3o32BZclrqy3ds6eBHEZu7g/edit#slide=id.gc6f9e2caa_0_0
+
+![PartyPlannerss](https://user-images.githubusercontent.com/88916382/139777969-f7db6832-fe77-4616-bcd0-241f1690560b.png)
